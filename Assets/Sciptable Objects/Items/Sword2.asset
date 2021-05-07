@@ -12,8 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f93a5fa3216814f428a280d1bfe323fe, type: 3}
   m_Name: Sword2
   m_EditorClassIdentifier: 
-  prefab: {fileID: 6891940511543025002, guid: 204dca4458ab1ec4fb11d98ef98d1748, type: 3}
+  Id: 2
+  uiDisplay: {fileID: -6763620941933801878, guid: d07b803c54ae9fb4ebfc1e8a13b12f4c,
+    type: 3}
   type: 1
-  description: 
+  description: valiant sword
+  buffs:
+  - attribute: 2
+    value: 0
+    min: 1
+    max: 20
   atkBonus: 5
   defenceBonus: 0

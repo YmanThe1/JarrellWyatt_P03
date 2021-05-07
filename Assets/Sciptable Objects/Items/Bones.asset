@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e11caeb18ef5ec4ba87ebee38c86964, type: 3}
   m_Name: Bones
   m_EditorClassIdentifier: 
-  prefab: {fileID: 5554733212538160993, guid: f3f6dfe4bce38524dae27038e7338dc1, type: 3}
+  Id: 0
+  uiDisplay: {fileID: 1660957820977104790, guid: d07b803c54ae9fb4ebfc1e8a13b12f4c,
+    type: 3}
   type: 2
   description: 'Leftovers of those you''ve slain
 

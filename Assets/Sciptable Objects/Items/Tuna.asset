@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f1fb749cf6b4264ab22ad3d4e5badbd, type: 3}
   m_Name: Tuna
   m_EditorClassIdentifier: 
-  prefab: {fileID: 6499987685152325087, guid: ead419302a28cda4690bfc7f609eb1e6, type: 3}
+  Id: 4
+  uiDisplay: {fileID: -1017397855643254206, guid: d07b803c54ae9fb4ebfc1e8a13b12f4c,
+    type: 3}
   type: 0
   description: Heals Player
-  restoreHealthValue: 0
+  buffs: []
+  restoreHealthValue: 5
